@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshit Trivedi</h1>
-<h3 align="center">A Pre-Final year IT guy @ BVM</h3>
+<h3 align="center">Pursuing MSCS from CSU Fullerton</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit-007&label=Profile%20views&color=0e75b6&style=flat" alt="akshit-007" /> </p>
 
