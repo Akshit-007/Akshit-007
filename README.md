@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akshittrivedi07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshittrivedi07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/believer_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="believer_07" height="30" width="40" /></a>
 <a href="https://instagram.com/akshit_1005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshit_1005" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/believer_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="believer_07" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akshittrivedi1005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshittrivedi1005" height="30" width="40" /></a>
